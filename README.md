@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/@MAPENTech/videos"><img src="https://user-images.githubusercontent.com/70863031/215304051-109db975-7224-4751-a982-29646b75635f.png" alt="MAPENBot - Discord Bot"></a>
+  <a href="https://www.youtube.com/@MAPENTech/videos"><img src="https://user-images.githubusercontent.com/70863031/233258047-464e98c7-b3a7-4cc8-a31a-9bd5a13274d1.png" alt="MAPENBot - Discord Bot"></a>
   <br>
   GOMARKET RESTful API y app móvil escrita con Flutter
   <br>
