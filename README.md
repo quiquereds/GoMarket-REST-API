@@ -107,6 +107,7 @@ Y listo, con estos pasos deberías poder compilar la aplicación y visualizarla 
 ### <img align="left" alt="Rocket" width="35px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/70863031/215303334-56d6d712-055a-4704-ab00-2a8d9538e974.gif"/> Lenguajes y herramientas utilizadas 
 
 <img align="left" alt="https://www.python.org/" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="https://www.python.org/" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 <img align="left" alt="https://www.python.org/" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 <img align="left" alt="https://www.mysql.com/products/workbench/" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="https://flutter.dev/" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
